@@ -1,0 +1,67 @@
+{
+  "recipes": [
+    {
+      "id": 1, "name": "Nasi Goreng Kampung", "category": "Makanan Berat",
+      "time_minutes": 20, "difficulty": "Mudah", "rating": 4.7, "icon": "rice", "color": "#E76F51",
+      "description": "Nasi goreng sederhana dengan bumbu bawang, cabai, dan kecap manis khas rumahan.",
+      "ingredients": ["2 piring nasi putih", "3 siung bawang putih", "5 buah cabai rawit", "2 butir telur", "2 sdm kecap manis", "Garam secukupnya"],
+      "steps": ["Haluskan bawang putih dan cabai.", "Tumis bumbu hingga harum.", "Masukkan telur, orak-arik.", "Tambahkan nasi dan kecap, aduk rata.", "Sajikan selagi hangat."]
+    },
+    {
+      "id": 2, "name": "Soto Ayam Lamongan", "category": "Sup",
+      "time_minutes": 60, "difficulty": "Sedang", "rating": 4.9, "icon": "soup", "color": "#F4A261",
+      "description": "Soto kuah kuning bening dengan suwiran ayam dan taburan koya gurih.",
+      "ingredients": ["500 g ayam", "2 batang serai", "3 lembar daun jeruk", "1 sdt kunyit bubuk", "Bawang goreng", "Soun dan telur rebus"],
+      "steps": ["Rebus ayam hingga empuk, suwir.", "Tumis bumbu halus bersama serai dan daun jeruk.", "Masukkan tumisan ke dalam kaldu.", "Sajikan dengan soun, telur, dan koya."]
+    },
+    {
+      "id": 3, "name": "Rendang Sapi", "category": "Makanan Berat",
+      "time_minutes": 180, "difficulty": "Sulit", "rating": 5.0, "icon": "meat", "color": "#9C2F2F",
+      "description": "Daging sapi dimasak lama dengan santan dan rempah hingga kering dan meresap.",
+      "ingredients": ["1 kg daging sapi", "1 liter santan kental", "10 buah cabai merah", "Lengkuas, jahe, kunyit", "Serai dan daun kunyit", "Garam dan gula"],
+      "steps": ["Haluskan semua bumbu.", "Masak daging dengan bumbu dan santan.", "Aduk sesekali dengan api kecil.", "Masak hingga santan mengering dan berminyak."]
+    },
+    {
+      "id": 4, "name": "Gado-Gado", "category": "Makanan Berat",
+      "time_minutes": 30, "difficulty": "Mudah", "rating": 4.6, "icon": "salad", "color": "#2A9D8F",
+      "description": "Sayuran rebus dengan siraman bumbu kacang yang gurih manis.",
+      "ingredients": ["Kol, kangkung, tauge", "Kentang dan telur rebus", "Tahu dan tempe goreng", "150 g kacang tanah goreng", "Gula merah dan cabai", "Kerupuk"],
+      "steps": ["Rebus semua sayuran.", "Haluskan bumbu kacang.", "Tata sayuran, tahu, dan telur.", "Siram bumbu kacang dan beri kerupuk."]
+    },
+    {
+      "id": 5, "name": "Pisang Goreng Crispy", "category": "Camilan",
+      "time_minutes": 25, "difficulty": "Mudah", "rating": 4.5, "icon": "snack", "color": "#E9C46A",
+      "description": "Pisang goreng berbalut adonan tepung renyah, cocok untuk teman teh sore.",
+      "ingredients": ["5 buah pisang kepok", "150 g tepung terigu", "50 g tepung beras", "Gula dan garam", "Air es secukupnya", "Minyak goreng"],
+      "steps": ["Campur tepung, gula, garam, dan air es.", "Celup pisang ke adonan.", "Goreng hingga keemasan.", "Tiriskan dan sajikan."]
+    },
+    {
+      "id": 6, "name": "Klepon Pandan", "category": "Camilan",
+      "time_minutes": 45, "difficulty": "Sedang", "rating": 4.8, "icon": "snack", "color": "#6A994E",
+      "description": "Bola ketan hijau berisi gula merah cair, digulung kelapa parut.",
+      "ingredients": ["250 g tepung ketan", "Air daun pandan", "100 g gula merah", "1 butir kelapa parut", "Sejumput garam"],
+      "steps": ["Uleni tepung ketan dengan air pandan.", "Bulatkan dan isi gula merah.", "Rebus hingga mengapung.", "Gulingkan pada kelapa parut."]
+    },
+    {
+      "id": 7, "name": "Es Teler", "category": "Minuman",
+      "time_minutes": 15, "difficulty": "Mudah", "rating": 4.6, "icon": "drink", "color": "#E5989B",
+      "description": "Minuman segar berisi alpukat, kelapa muda, dan nangka dengan susu manis.",
+      "ingredients": ["1 buah alpukat", "Kelapa muda", "Nangka", "Susu kental manis", "Sirup", "Es batu"],
+      "steps": ["Potong alpukat, nangka, dan kelapa.", "Masukkan ke mangkuk.", "Tambahkan susu dan sirup.", "Beri es batu dan sajikan."]
+    },
+    {
+      "id": 8, "name": "Wedang Jahe", "category": "Minuman",
+      "time_minutes": 10, "difficulty": "Mudah", "rating": 4.4, "icon": "drink", "color": "#BC6C25",
+      "description": "Minuman hangat dari jahe, serai, dan gula merah untuk menghangatkan badan.",
+      "ingredients": ["3 ruas jahe", "1 batang serai", "2 sdm gula merah", "500 ml air"],
+      "steps": ["Memarkan jahe dan serai.", "Rebus bersama air dan gula merah.", "Saring dan sajikan hangat."]
+    },
+    {
+      "id": 9, "name": "Sayur Asem Betawi", "category": "Sup",
+      "time_minutes": 40, "difficulty": "Mudah", "rating": 4.5, "icon": "soup", "color": "#588157",
+      "description": "Sayur berkuah segar asam-manis dengan jagung, labu siam, dan kacang panjang.",
+      "ingredients": ["Jagung manis", "Labu siam", "Kacang panjang", "Melinjo", "Asam jawa", "Gula merah dan garam"],
+      "steps": ["Rebus air dengan bumbu halus.", "Masukkan sayuran sesuai kekerasan.", "Tambahkan asam jawa dan gula.", "Masak hingga sayur matang."]
+    }
+  ]
+}
